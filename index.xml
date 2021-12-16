@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music and Gaming Performance</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Music and Gaming Performance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Dec 2021 12:14:41 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcast Ep.1: Introduction and Background Research</title>
+      <link>http://example.org/podcasts/podcast1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/podcasts/podcast1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast Ep.2: Research Methodology and Procedures</title>
+      <link>http://example.org/podcasts/podcast2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/podcasts/podcast2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast Ep.3: Future Implications</title>
+      <link>http://example.org/podcasts/podcast3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/podcasts/podcast3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
