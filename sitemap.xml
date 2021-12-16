@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://webjhulee.github.io/projectsite/about/</loc>
     <lastmod>2021-12-16T13:28:46-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/memo/</loc>
+    <loc>https://webjhulee.github.io/projectsite/memo/</loc>
     <lastmod>2021-12-16T13:13:41-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://webjhulee.github.io/projectsite/</loc>
     <lastmod>2021-12-16T12:14:41-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/podcasts/</loc>
+    <loc>https://webjhulee.github.io/projectsite/podcasts/</loc>
     <lastmod>2021-12-16T12:14:41-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://webjhulee.github.io/projectsite/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/podcasts/podcast1/</loc>
+    <loc>https://webjhulee.github.io/projectsite/podcasts/podcast1/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/podcasts/podcast2/</loc>
+    <loc>https://webjhulee.github.io/projectsite/podcasts/podcast2/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/podcasts/podcast3/</loc>
+    <loc>https://webjhulee.github.io/projectsite/podcasts/podcast3/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://webjhulee.github.io/projectsite/tags/</loc>
   </url>
   
 </urlset>
