@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcasts on Music and Gaming Performance</title>
-    <link>http://example.org/podcasts/</link>
+    <link>https://webjhulee.github.io/projectsite/podcasts/</link>
     <description>Recent content in Podcasts on Music and Gaming Performance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Dec 2021 12:14:41 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/podcasts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://webjhulee.github.io/projectsite/podcasts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Podcast Ep.1: Introduction and Background Research</title>
-      <link>http://example.org/podcasts/podcast1/</link>
+      <link>https://webjhulee.github.io/projectsite/podcasts/podcast1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/podcasts/podcast1/</guid>
+      <guid>https://webjhulee.github.io/projectsite/podcasts/podcast1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcast Ep.2: Research Methodology and Procedures</title>
-      <link>http://example.org/podcasts/podcast2/</link>
+      <link>https://webjhulee.github.io/projectsite/podcasts/podcast2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/podcasts/podcast2/</guid>
+      <guid>https://webjhulee.github.io/projectsite/podcasts/podcast2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcast Ep.3: Future Implications</title>
-      <link>http://example.org/podcasts/podcast3/</link>
+      <link>https://webjhulee.github.io/projectsite/podcasts/podcast3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/podcasts/podcast3/</guid>
+      <guid>https://webjhulee.github.io/projectsite/podcasts/podcast3/</guid>
       <description></description>
     </item>
     

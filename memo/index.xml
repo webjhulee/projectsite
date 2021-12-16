@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Policy Memo on Music and Gaming Performance</title>
-    <link>http://example.org/memo/</link>
+    <link>https://webjhulee.github.io/projectsite/memo/</link>
     <description>Recent content in Policy Memo on Music and Gaming Performance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Dec 2021 13:13:41 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/memo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://webjhulee.github.io/projectsite/memo/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
