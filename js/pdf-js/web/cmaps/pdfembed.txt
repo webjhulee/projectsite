@@ -1,0 +1,1 @@
+This PDF embed package has way too many items such that I can't even upload the js package on the Github GUI. Wow. 
